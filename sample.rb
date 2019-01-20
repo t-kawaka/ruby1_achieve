@@ -35,7 +35,7 @@ class Janken
     puts "あなたの負けです"
     return false
   else 
-    puts "0~2の数字を入力してください"
+    puts "1~3の数字を入力してください"
     return true
     end
     end
